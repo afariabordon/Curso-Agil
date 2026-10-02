@@ -1,2 +1,2 @@
-# Curso-Agil
+# lab-afile-planning
 Curso cursera 
